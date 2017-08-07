@@ -1,21 +1,21 @@
 ---
-name: Gavin the Tiger
+name: Boco the Chocobo
 description_markdown: >-
-  Gavin the tiger was brought up vegan. His favorite meal is chickpea salad with
-  a lemon juice dressing.
-
+  Boco is the faithful friend of Bartz Klauser, the protagonist of *Final
+  Fantasy V.*
 
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
 price: '9'
-sku: tiger
+sku: chocobo
 stock: 10
 sizes:
   - Small
   - Medium
   - Large
   - XL
+  -
 styles:
   - name: Black
     color: '#000000'
