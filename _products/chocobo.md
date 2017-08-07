@@ -19,17 +19,14 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/tiger/black.jpg
+    image: /images/products/chocobo/black.jpg
   - name: Blue
-    color: '#39589e'
-    image: /images/products/tiger/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/tiger/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/tiger/cream.jpg
+    color: '#73d5eb'
+    image: /images/products/chocobo/blue.jpg
   - name: Green
-    color: '#67aa79'
-    image: /images/products/tiger/green.jpg
+    color: '#96f78b'
+    image: /images/products/chocobo/green.jpg
+  - name: Yellow
+    color: '#fbd64f'
+    image: /images/products/chocobo/yellow.jpg
 ---
