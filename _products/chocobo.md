@@ -15,6 +15,7 @@ sizes:
   - Medium
   - Large
   - XL
+  - XXXL
   -
 styles:
   - name: Black
