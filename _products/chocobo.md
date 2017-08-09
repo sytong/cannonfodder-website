@@ -1,5 +1,5 @@
 ---
-name: Boco the Chocobo
+name: Boco the Chocobo 2333
 description_markdown: >-
   Boco is the faithful friend of Bartz Klauser, the protagonist of *Final
   Fantasy V.*
