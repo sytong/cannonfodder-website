@@ -10,6 +10,7 @@ garment_type:
 price: '9'
 sku: chocobo
 stock: 10
+inStock: true
 sizes:
   - Small
   - Medium
